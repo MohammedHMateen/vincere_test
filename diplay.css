@@ -1,0 +1,19 @@
+.card-2 {
+    -webkit-box-shadow: 4px 8px 20px 4px rgba(219, 226, 112, 0.747)!important;
+    -moz-box-shadow: 4px 8px 20px 4px rgba(219, 226, 112, 0.747)!important;
+    box-shadow: 4px 8px 20px 4px rgba(219, 226, 112, 0.747) !important;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 100%;  
+    display: table;
+  }
+
+  .card-heading{
+    background-image: url("assets/whiteboard.jpg") !important;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 40%;
+    display: table-cell;
+  }
+  
